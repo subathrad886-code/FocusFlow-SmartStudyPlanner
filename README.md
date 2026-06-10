@@ -83,7 +83,8 @@ Password:
 
 ### Login Form
 
-![Login Form](Screenshots/LoginScreen.png)
+<img width="736" height="519" alt="LoginScreen png" src="https://github.com/user-attachments/assets/269c18f9-4ec2-40b1-a341-06e7b78efff7" />
+
 
 ### Main Dashboard
 
