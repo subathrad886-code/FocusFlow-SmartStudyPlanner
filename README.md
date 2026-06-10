@@ -88,27 +88,28 @@ Password:
 
 ### Main Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+<img width="1269" height="831" alt="Dashboard png" src="https://github.com/user-attachments/assets/a11d6f8e-e375-4626-8c48-79da423aeaf7" />
+
 
 ### Add Task Feature
 
-![Add Task](Screenshots/AddTask.png)
+<img width="1271" height="827" alt="AddTask png" src="https://github.com/user-attachments/assets/db05d580-ba67-4276-8942-ef6be619bcce" />
+
 
 ### Search Task Feature
 
-![Search Task](Screenshots/SearchTask.png)
+<img width="1270" height="808" alt="SearchTask png" src="https://github.com/user-attachments/assets/5b0046da-2953-494b-9186-dd2d0535c52f" />
 
-### Task Completion
-
-![Completed Task](Screenshots/CompletedTask.png)
 
 ### Statistics Dashboard
 
-![Statistics](Screenshots/Statistics.png)
+<img width="1271" height="815" alt="Statistics png" src="https://github.com/user-attachments/assets/298cd873-7f0c-4410-bf19-0114b7a619d5" />
+
 
 ### Pomodoro Timer
 
-![Pomodoro Timer](Screenshots/PomodoroTimer.png)
+<img width="1272" height="821" alt="PomodoroTimer png" src="https://github.com/user-attachments/assets/899d6e15-c08f-4578-ab5d-62baa09dab47" />
+
 
 
 
